@@ -8,7 +8,7 @@ export default class ItemComponent extends Component {
                     <div className='col1'>
                         
                         <div>
-                            <img src="..." alt="..." />
+                            <img src="./logo192.png" alt="..." className='img-fluid'/>
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -19,7 +19,7 @@ export default class ItemComponent extends Component {
                     </div>
                     <div className='col1'>
                         <div>
-                            <img src="..." alt="..." />
+                            <img src="./logo192.png" alt="..." className='img-fluid'/>
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -30,7 +30,7 @@ export default class ItemComponent extends Component {
                     </div>
                     <div className='col1'>
                         <div>
-                            <img src="..." alt="..." />
+                            <img src="./logo192.png" alt="..." className='img-fluid'/>
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
@@ -41,7 +41,7 @@ export default class ItemComponent extends Component {
                     </div>
                     <div className='col1'>
                         <div>
-                            <img src="..." alt="..." />
+                            <img src="./logo192.png" alt="..." className='img-fluid'/>
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
